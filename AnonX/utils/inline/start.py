@@ -41,7 +41,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [    
             InlineKeyboardButton(
-                text="✭ ᴄʜᴀɴɴᴇʟ ✭", url=f"https://t.me/the_update_silencer",
+                text="✭ ᴄʜᴀɴɴᴇʟ ✭", url=f"https://t.me/jannat_world_xd",
             ),
             InlineKeyboardButton(
                 text="✦ sᴜᴩᴩᴏʀᴛ ✦", url=config.SUPPORT_GROUP
