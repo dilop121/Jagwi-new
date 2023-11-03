@@ -23,7 +23,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/dilop121/Jagwi-new")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/jannat_world_xd")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/jannat_world_xd")
