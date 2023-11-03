@@ -40,7 +40,7 @@ async def restart(client, m: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/its_cute_babu")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/Honey_Singh_121")
                 ]
             ]
         ),
@@ -77,7 +77,7 @@ async def restart(client, m: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🖤 ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🖤", url=f"https://t.me/HOTX_MUSIC_BOT?startgroup=true")
+                        "🖤 ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🖤", url=f"https://t.me/Alone_Dil_Bot?startgroup=true")
                 ]
             ]
         ),
